@@ -29,6 +29,9 @@ Acredito que um bom desenvolvedor deve ser adaptável e entender a computação 
 
 ### 🚀 Projetos em Destaque
 
+#### ⚖️  [CS: Justice - Combate à Violência Virtual](https://github.com/JacksonMSchroeder/cs-justice-board)
+Plataforma Fullstack em Node.js e Express para documentação e apoio a vítimas de injúria e racismo em e-Sports. Desenvolvida com integração assíncrona à API oficial da Valve (Steam OpenID e ISteamUser) para identificação de perfis e monitoramento de banimentos (VAC). Conta com upload de provas em memória (Multer) para o Supabase Storage e blindagem rígida contra ataques via políticas de CSP no Helmet.js.
+
 #### 🚛 [Lero Lero Transportes Ltda](https://github.com/JacksonMSchroeder/Lero-Lero-Transportes-Ltda)
 Dashboard especialista para gestão logística e cálculo dinâmico de fretes com motor matemático local em TypeScript e persistência segura em nuvem via Supabase. Desenvolvido sob a filosofia de Módulo Especialista para solucionar problemas reais de usabilidade operacional e financeira na ponta logística da região de Joinville/SC.
 
